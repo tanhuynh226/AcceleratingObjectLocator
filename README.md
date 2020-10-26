@@ -1,5 +1,5 @@
 # AcceleratingObjectLocator - Structural Model
-## Goal: Design a an accelerating object locator that implements the following equation:      <p align="center">![Image of Locator Equation](https://raw.githubusercontent.com/tanhuynh226/AcceleratingObjectLocator/main/images/locator-equation.gif)</p>
+## Goal: Design a an accelerating object locator that implements the following equation: <p align="center">![Image of Locator Equation](https://raw.githubusercontent.com/tanhuynh226/AcceleratingObjectLocator/main/images/locator-equation.gif)</p>
 
 
 #### Locator Controller & Datapath:
