@@ -20,6 +20,6 @@ Logical Component Delays:
 
 
 Minimum clock cycle = StateReg + CombLogic<sup>[1](#1)</sup> + RegFile + ALU + Selector
-Minimum clock cycle = (4 + 1) + 11 + (6 + 6 + 1) + 12 + 3 = 44 ns
+Minimum clock cycle = (4 + 1) + 11 + (6 + 6 + 1) + 12 + 3 = **44 ns**
 
 <Comb Logic="1">1</a>: Combinational Logic Delay(CombLogic): 11 ns
