@@ -1,0 +1,7 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../AccelObjLocator.srcs/sources_1/imports/Locator/locator.vhd" \
+"../../../../AccelObjLocator.srcs/sources_1/imports/Locator/locator_tb.vhd" \
+
+# Do not sort compile order
+nosort
