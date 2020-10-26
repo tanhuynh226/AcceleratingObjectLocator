@@ -3,10 +3,10 @@
 
 
 #### Locator Controller & Datapath:
-![Image of Locator Figure](https://raw.githubusercontent.com/tanhuynh226/AcceleratingObjectLocator/main/images/locator-figure.gif)
+<p align="center">![Image of Locator Figure](https://raw.githubusercontent.com/tanhuynh226/AcceleratingObjectLocator/main/images/locator-figure.gif)</p>
 
 #### FSM Model:
-![Image of FSM](https://raw.githubusercontent.com/tanhuynh226/AcceleratingObjectLocator/main/images/FSMD%20Model%20for%20Lab%203s.png)
+<p align="center">![Image of FSM](https://raw.githubusercontent.com/tanhuynh226/AcceleratingObjectLocator/main/images/FSMD%20Model%20for%20Lab%203s.png)</p>
 
 #### Clock cycle calculations
 Logical Component Delays:
