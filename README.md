@@ -3,7 +3,7 @@
 
 
 #### Locator Controller & Datapath:
-<p align="center">![Image of Locator Figure](https://raw.githubusercontent.com/tanhuynh226/AcceleratingObjectLocator/main/images/locator-figure.gif)</p>
+<p align="center"><img src="https://raw.githubusercontent.com/tanhuynh226/AcceleratingObjectLocator/main/images/locator-figure.gif"></p>
 
 #### FSM Model:
 <p align="center">![Image of FSM](https://raw.githubusercontent.com/tanhuynh226/AcceleratingObjectLocator/main/images/FSMD%20Model%20for%20Lab%203s.png)</p>
