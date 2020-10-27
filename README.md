@@ -8,6 +8,14 @@
 #### FSM Model:
 <p align="center"><img src="https://raw.githubusercontent.com/tanhuynh226/AcceleratingObjectLocator/main/images/FSMD%20Model%20for%20Lab%203s.png"></p>
 
+#### Constants
+* Zero Constant, stored in regArray(0)
+* Constant acceleration (a): 11 m/s2 (meters per second squared), stored in regArray(1)
+* Time (t): 8 seconds, stored in regArray(2)
+* An initial velocity (v0): 3 m/s (meters per second), stored in regArray(3)
+* Starting location (x0): 5 m (meters), stored in regArray(4)
+* regArray(5) through regArray(7) are free slots
+
 #### Clock cycle calculations
 Logical Component Delays:
 *	State Register (StateReg): 4 ns from Clk to output, 1 ns setup time
