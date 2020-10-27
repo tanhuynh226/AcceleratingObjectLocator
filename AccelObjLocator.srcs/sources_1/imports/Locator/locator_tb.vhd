@@ -28,10 +28,6 @@ LIBRARY ieee;
 USE ieee.std_logic_1164.ALL;
 USE std.textio.ALL; -- for write, writelin
  
--- Uncomment the following library declaration if using
--- arithmetic functions with Signed or Unsigned values
---USE ieee.numeric_std.ALL;
- 
 ENTITY locator_tb IS
 END locator_tb;
  
